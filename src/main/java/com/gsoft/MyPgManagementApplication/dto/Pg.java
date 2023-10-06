@@ -14,7 +14,8 @@ public class Pg {
 	@Id
 	private int id;
 	private String name;
-	
-	
-	
+	private String city;
+	private String state;
+	private long phone;
+	private String email;
 }
